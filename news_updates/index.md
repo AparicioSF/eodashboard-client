@@ -1,30 +1,32 @@
 # News & Updates
-
+ 
 ## Upcoming Events
-
+ 
 The EO Dashboard is organising and supporting hands-on workshops, hands-on tutorials, and global open competitions. Come meet the ESA-NASA-JAXA team at these various events. 
-
+ 
+* **9 – 12 Nov 2026 - Advancing Earth Observation Forum, Hobart, AU**
+  * [TODO_SESSION_TITLE](TODO_LINK_TO_SESSION_IN_PROGRAMME) - TODO short description of the EO Dashboard contribution.
+* **16 – 18 Dec 2026 - GeoSmart India 2026, New Delhi, IN**
+  * [TODO_SESSION_TITLE](TODO_LINK_TO_SESSION_IN_PROGRAMME) - TODO short description of the EO Dashboard contribution.
 ## Latest News
-
-- * **9 - 14 August 2026 - IGARSS 2026, Washington DC, US**
-  * [HD-01; Cloud-Native FAIR EO with NASA, ESA & JAXA Data for Scientific Interactive Storytelling Tutorial](https://2026.ieeeigarss.org/tutorials.php#tut8) -  Hands-on tutorial through the end-to-end process of working with EO data in the cloud to develop EO-based indicators using FAIR workflows, publish the indicators and workflows in a STAC catalogue and disseminate the results via engaging and interactive visual and AI-assisted scientific storytelling. **Event was unfortunately cancelled.**
-
+ 
+- **19 – 23 Oct 2026 — Four community-led ALOS-2 stories published**  
+  Developed during the JAXA hackathon and ideation activities and released ahead of APRSAF-32 in Bangkok, these stories use ALOS-2 data to explore [mangrove monitoring in Indonesia](TODO_STORY_URL_1), [urban expansion in Vietnam](TODO_STORY_URL_2), [rice yield modelling in Thailand](TODO_STORY_URL_3) and [forest monitoring in the Philippines](TODO_STORY_URL_4).
+- **Sep 2026 — AI-enhanced narrative editor deployed**  
+  The AI-enhanced version of the EO Dashboard narrative editor is now available for [workspaces](TODO_LINK_TO_EDITOR_OR_WORKSPACE), bringing AI assistance to story creation and simplifying content management.
 - **29 Jun 2026 — New community-led story is published**  
-  Students explore [how aerosols shape clouds using the ESA-JAXA EarthCARE satellite](https://eodashboard.org/story/?id=science-hub-team-1-story), as part of an ESA Science Hub Challenge.
-
+  Students explore [how aerosols shape clouds using the ESA-JAXA EarthCARE satellite](https://eodashboard.org/story/?id=science-hub-team-1-story), as part of the [ESA Science Hub Challenges](https://sciencehub.esa.int/2025/07/14/science-hub-challenges-july-2025/).
 - **20 Jun 2025 — EO Dashboard upgraded to new interface**  
   We have upgraded the eodashboard.org to a completely new interface based on [eodash v5](https://github.com/eodash/eodash). Some collections are still in the process of being fully migrated to offer full expected functionality.
   
 - **10 Mar 2025 — Survey: AI-Powered Features**  
   We’re exploring expanding the use of machine-learning on EO Dashboard. *Tell us what you’d like to see!* 
   [ >> Fill out the 3-minute questionnaire](https://forms.office.com/Pages/ResponsePage.aspx?id=0Kxcmu8r102sXH6-H1T0laW1G4eQe39LnE1OD1qEn2xUODdPSEJUV0pKU1E1NFZXNDFIQUs4T1o1Sy4u)
-
 - **05 Feb 2025 — Agencies Extend Partnership**  
   ESA, NASA & JAXA sign a joint declaration committing to EO Dashboard through **September 2026**. Future plans involve integrating cutting-edge technologies, incorporating data from new science missions like EarthCARE and PACE, supporting new joint  scientific research, and launching new outreach efforts.
   [>> Read the declaration](https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/stories/news/2024Joint%20Declaration_draftA-MM-AA_NS_JAXA.pdf)
-
 ## Blog Posts
-
+ 
 - **[Exploring Open Science & Geospatial Innovation](https://eo4society.esa.int/2023/07/03/exploring-open-science-and-geospatial-innovation-the-nasa-esa-jaxa-eo-dashboard-workshop-at-foss4g-2023/)** – recap of our FOSS4G workshop.  
 - **[Creating Powerful Visuals of COVID-19 Impacts on Human Activities](https://medium.com/euro-data-cube/creating-powerful-visuals-of-covid-19-impacts-on-human-activities-8879fa75121d)** – Medium article.  
 - **[World Food Supply Amid a Pandemic (Part 1)](https://medium.com/euro-data-cube/world-food-supply-amid-a-pandemic-3940ef855f07)** – Medium series.
@@ -33,27 +35,33 @@ The EO Dashboard is organising and supporting hands-on workshops, hands-on tutor
 - **[The Pandemic Disruption of Air Traffic — As Seen from Space](https://medium.com/euro-data-cube/the-pandemic-disruption-of-air-traffic-as-seen-from-space-6dad64201b9a)** – Medium article.  
 - **[Coronavirus and Water Quality — what’s the correlation?](https://medium.com/euro-data-cube/coronavirus-and-water-quality-whats-the-correlation-bf727d343e61)** - Medium article. 
 - **[Building traffic maps with Space data](https://medium.com/euro-data-cube/building-traffic-maps-with-space-data-%EF%B8%8F-fd894a847792)** - Medium article.  
-
 ---
-
+ 
 ### Share Your Story
-
+ 
 Working on something society-relevant with EO data from **ESA, NASA, or JAXA**? Send us your idea at **<eodash@esa.int>** - the most compelling submissions will be featured on this page and across our channels.
-
+ 
 ## Past Events:
-
+ 
+* **27 – 30 Oct 2026 - APRSAF-32, Bangkok, TH**
+  * [TODO_SESSION_TITLE](TODO_LINK_TO_SESSION_IN_PROGRAMME) - TODO short description (e.g. presentation of the community-led ALOS-2 stories).
+* **19 – 21 Oct 2026 - Agentic AI for Earth Observation Workshop, Berlin, DE**
+  * [TODO_SESSION_TITLE](TODO_LINK_TO_SESSION_IN_PROGRAMME) - TODO short description of the EO Dashboard contribution.
+* **30 Aug – 5 Sep 2026 - FOSS4G 2026, Hiroshima, JP**
+  * [TODO_TALK_OR_WORKSHOP_TITLE](TODO_LINK_TO_SESSION_IN_PROGRAMME) - TODO short description of the EO Dashboard contribution.
+* **9 – 14 Aug 2026 - IGARSS 2026, Washington DC, US**
+  * [HD-01; Cloud-Native FAIR EO with NASA, ESA & JAXA Data for Scientific Interactive Storytelling Tutorial](https://2026.ieeeigarss.org/tutorials.php#tut8) -  Hands-on tutorial through the end-to-end process of working with EO data in the cloud to develop EO-based indicators using FAIR workflows, publish the indicators and workflows in a STAC catalogue and disseminate the results via engaging and interactive visual and AI-assisted scientific storytelling. **Event was unfortunately cancelled.**
 * **3 - 8 May 2026 - EGU 2026, Vienna, AT**
   * `4 May 2026 10:50-11:10`; EO Dashboard - An open resource for education and information from ESA, NASA and JAXA at `ESA stand in Hall X2, stand X201`; walkthrough of the project, website and accompanying tools by Diego Moglioni.
   * `6 May 2026 11:50-12:10 & 16:20-16:40`; Turn Satellite Data into Stories with EODashboard team at `ESA stand in Hall X2, stand X201`; Explore possibilities for scientific storytelling on your research use cases or our examples. Learn how to use and contribute data and stories to and from EODashboard ecosystem. Check the [eodashboardtutorial workspace](https://workspace.eodashboardtutorial.hub-otc-sc.eox.at/) and try creating your own story.
   * Poster [Building Connected Earth Observation Ecosystems with Agentic AI using EVE](https://meetingorganizer.copernicus.org/EGU26/EGU26-20206.html); Featuring also connection to EODashboard data and stories Thursday, 07 May, 16:15–18:00 (CEST), Display time Thursday, 07 May, 14:00–18:00 Hall X4, X4.68
   * `6 May 2026 10:50-11:10`; RACE Dashboard - EO Based information for citizens `ESA stand in Hall X2, stand X201`; demonstration by Diego Moglioni.
-
 * **4 – 5 Oct 2025 - NASA Space Apps Challenge, Global, hybrid**
   *   [Global Hackathon](https://www.spaceappschallenge.org) - *form a team, solve a real-world EO challenge, and build your project with EO Dashboard!*
-
 * **29 Sept – 3 Oct 2025- Big Data from Space, Riga, LV**
   *   Tutorial [Hands-on with EO: Creating indicators and stories from open satellite data](https://www.bigdatafromspace2025.org/satellite-event-submission)** -  *develop new indicators from EO mission data and use them to craft a compelling narrative*
-
+* **7 – 11 Jul 2025 - ESA Science Hub Challenges, ESRIN, Frascati, IT**
+  *   [Science Hub Challenges, July 2025](https://sciencehub.esa.int/2025/07/14/science-hub-challenges-july-2025/) - *student teams tackled EO challenges; one outcome is the [EarthCARE aerosol–cloud story](https://eodashboard.org/story/?id=science-hub-team-1-story) published on EO Dashboard*
 * **22 – 27 Jun 2025- Living Planet Symposium, Vienna, AT**
   *   Tutorial [D.03.18 From Earth Science to Storytelling](https://lps25.esa.int/programme/programme-session/?id=7A4E4BC9-92EE-41D3-8A3A-62FF63DC914E) -  *build your first dashboard story step-by-step*
   *   Demonstration in the EO Arena [D.03.32 DEMO - NASA-ESA-JAXA EO Dashboard](https://lps25.esa.int/programme/programme-session/?id=7A613D5A-F956-41EF-B520-EE0A71549B47) - *live demo*
